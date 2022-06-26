@@ -1,2 +1,2 @@
 # FlareX
-A simple and easy to use, Programming launguage
+A simple and easy to use programming language, Made in python.
